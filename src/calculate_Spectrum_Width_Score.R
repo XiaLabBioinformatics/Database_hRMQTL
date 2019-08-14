@@ -1,3 +1,6 @@
+# The script wes used to calculate the Spectrum Width Score.
+
+
 setwd("")
 data <- read.table("", sep = "\t", header = T, quote = NULL)
 
