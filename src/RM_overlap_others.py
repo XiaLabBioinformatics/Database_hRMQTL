@@ -1,3 +1,8 @@
+
+#!/usr/bin/python
+# -*-coding:utf-8-*-
+# @author Lee
+
 # RNA_modification overlap other features
 import glob
 import os
