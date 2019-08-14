@@ -1,4 +1,8 @@
-RNA_mod_data
+#!/usr/bin/python
+# -*-coding:utf-8-*-
+# @author Lee
+
+RNA_mod_data = ''
 eQTL_data = ''
 meQTL_data = ''
 pQTL_data = ''
